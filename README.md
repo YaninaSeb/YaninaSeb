@@ -47,7 +47,7 @@ I'm a beginner Front-end Developer <img src="https://media.giphy.com/media/WUlpl
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaninaSeb&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaninaSeb&layout=compact&theme=slateorange)](https://github.com/YaninaSeb/github-readme-stats)
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=YaninaSeb&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
