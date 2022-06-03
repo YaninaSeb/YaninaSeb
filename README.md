@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Yana Sebrukovich
+  Hi, I'm Yana Sebrukovich
 </h1>
 
 
@@ -8,10 +8,10 @@
 </div> -->
 
 ### :woman_technologist: About Me :
-I'm a beginner Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Minsk.
+I'm a beginner Front-end Developer from Minsk.
 
-- 🌱 I’m currently learning Angular and improving JavaScript, TypeScript
-- :books: :notes: In my free time I read tech articles and listen to the music
+- 🌱 I’m currently learning NodeJS and improving JavaScript, TypeScript
+- :books: :notes: In my free time I read tech articles
 - :mag_right: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yana_Sebrukovich-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yana-sebrukovich/)  [![Telegram Badge](https://img.shields.io/badge/-Yana_Sebrukovich-white?style=flat&logo=Telegram&logoColor=white)](https://t.me/YanaSebrukovich)
 
 ---
