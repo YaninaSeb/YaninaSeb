@@ -10,8 +10,8 @@
 ### :woman_technologist: About Me :
 I'm a beginner Front-end Developer from Minsk.
 
-- 🌱 I’m currently learning NodeJS and improving JavaScript, TypeScript
-- :books: :notes: In my free time I read tech articles
+- 🌱 I’m currently learning NodeJS and improving my skills in JavaScript, TypeScript
+- :books: :notes: In my free time I learn something new
 - :mag_right: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yana_Sebrukovich-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yana-sebrukovich/)  [![Telegram Badge](https://img.shields.io/badge/-Yana_Sebrukovich-white?style=flat&logo=Telegram&logoColor=white)](https://t.me/YanaSebrukovich)
 
 ---
