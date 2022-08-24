@@ -8,7 +8,7 @@
 </div> -->
 
 ### :woman_technologist: About Me :
-I'm a beginner Front-end Developer from Minsk.
+I'm a Junior Front-End Developer from Minsk.
 
 - 🌱 I’m currently learning NodeJS and improving my skills in JavaScript, TypeScript
 - :books: :notes: In my free time I learn something new
