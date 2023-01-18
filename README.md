@@ -10,18 +10,19 @@
 ### :woman_technologist: About Me :
 I'm a Junior Front-End Developer from Minsk.
 
-- 🌱 I’m currently learning NodeJS and improving my skills in JavaScript, TypeScript
-- :books: :notes: In my free time I learn something new
+- 🌱 I’m currently improving my skills in Angular and creating new pet-projects
+- :books: :notes: In my free time I learn English
 - :mag_right: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yana_Sebrukovich-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yana-sebrukovich/)  [![Telegram Badge](https://img.shields.io/badge/-Yana_Sebrukovich-white?style=flat&logo=Telegram&logoColor=white)](https://t.me/YanaSebrukovich)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Skills :
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
