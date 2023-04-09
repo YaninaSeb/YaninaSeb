@@ -39,15 +39,11 @@ I'm a Frontend Developer.
 
 ---
 
-### ⚙️ GitHub Analytics
+### ⚙️ Analytics
 
 <div>
-      <img height="160em" align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=YaninaSeb&show_icons=true&theme=slateorange" />
-      <img height="160em" align="right" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaninaSeb&layout=compact&theme=slateorange" />
+      <img height="160em" align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=YaninaSeb&theme=slateorange&show_icons=true" />
+      <img height="160em" align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaninaSeb&layout=compact&theme=slateorange" />
+      <img align="bottom" alt="Codewars" src="https://www.codewars.com/users/YaninaSeb/badges/large" />
 </div>
 
-
-
-
-<!-- [![codewars](https://www.codewars.com/users/YaninaSeb/badges/large)](https://www.codewars.com/users/YaninaSeb) 
- -->
