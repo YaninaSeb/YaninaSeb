@@ -1,44 +1,53 @@
-<h1 align="center">
-  Hi, I'm Yana Sebrukovich
-</h1>
-
-
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div> -->
-
-### :woman_technologist: About Me :
-I'm a Junior Front-End Developer from Minsk.
-
-- 🌱 I’m currently improving my skills in Angular and creating new pet-projects
-- :books: :notes: In my free time I learn English
-- :mag_right: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yana_Sebrukovich-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yana-sebrukovich/)  [![Telegram Badge](https://img.shields.io/badge/-Yana_Sebrukovich-white?style=flat&logo=Telegram&logoColor=white)](https://t.me/YanaSebrukovich)
-
----
-
-### :hammer_and_wrench: Skills :
-
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+<div id="header" align="center">
+  <h1 align="center">Hi there, I'm Yana</h1>
 </div>
 
+### :woman_technologist: About Me
+I'm a Frontend Developer.
+
+- 🌱 I’m currently improving my skills and creating new pet-projects
+- 📚 In my free time I learn English
+- 🔎 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yana_Sebrukovich-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yana-sebrukovich/)  [![Telegram Badge](https://img.shields.io/badge/-Yana_Sebrukovich-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/YanaSebrukovich) [![Mail Badge](https://img.shields.io/badge/-Yana_Sebrukovich-blue?style=flat&logo=Gmail&logoColor=white)](mailto:sebrukovich_jana@mail.ru)
+
 ---
 
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaninaSeb&layout=compact&theme=slateorange)](https://github.com/YaninaSeb/github-readme-stats)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YaninaSeb&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### 💻 Tech Stack
+
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
+<img alt="Angular" src="https://img.shields.io/badge/angular-939393.svg?&style=for-the-badge&logo=angular&logoColor=red" />&nbsp;
+<img alt="Nodejs" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
+<img alt="HTML5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
+<img alt="CSS3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
+<img alt="Material UI" src="https://img.shields.io/badge/material%20UI-0081CB.svg?style=for-the-badge&logo=materialui&logoColor=fff" />&nbsp;
+<img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=fff" />&nbsp;
+<img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=fff" />&nbsp;
+<img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=fff" />&nbsp;
+<img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=fff" />&nbsp;
+
+---
+
+### 🛠 Tools
+
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+<img alt="Git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
+<img alt="Github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
+<img alt="Postman" src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=fff" />
+<img alt="Figma" src="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
+
+---
+
+### ⚙️ GitHub Analytics
+
+<div>
+      <img height="160em" align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=YaninaSeb&show_icons=true&theme=slateorange" />
+      <img height="160em" align="right" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaninaSeb&layout=compact&theme=slateorange" />
+</div>
 
 
-[![codewars](https://www.codewars.com/users/YaninaSeb/badges/large)](https://www.codewars.com/users/YaninaSeb) 
 
+
+<!-- [![codewars](https://www.codewars.com/users/YaninaSeb/badges/large)](https://www.codewars.com/users/YaninaSeb) 
+ -->
