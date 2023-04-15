@@ -54,3 +54,9 @@ I'm Frontend(Angular) developer from Minsk, Belarus.
       <img height="160em" align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaninaSeb&layout=compact&theme=slateorange" />
 </div>
 
+
+<!-- 
+Полезные ссылки
+эмодзи https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+алгоритм оформления https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17  
+-->
