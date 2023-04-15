@@ -1,12 +1,13 @@
 <div id="header" align="center">
-  <h1 align="center">Hi there, I'm Yana</h1>
+  <h1 align="center">Hi there, I'm Yana 👋</h1>
 </div>
 
 ### :woman_technologist: About Me
-I'm a Frontend Developer.
+I'm Frontend(Angular) developer from Minsk, Belarus.
 
 - 🌱 I’m currently improving my skills and creating new pet-projects
 - 📚 In my free time I learn English
+- <div>I like to solve puzzles and I solve codewars kata regularly <img align="center" height="25em" align="bottom" alt="Codewars" src="https://www.codewars.com/users/YaninaSeb/badges/large" /> </div>
 - 🔎 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yana_Sebrukovich-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yana-sebrukovich/)  [![Telegram Badge](https://img.shields.io/badge/-Yana_Sebrukovich-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/YanaSebrukovich) [![Mail Badge](https://img.shields.io/badge/-Yana_Sebrukovich-blue?style=flat&logo=Gmail&logoColor=white)](mailto:sebrukovich_jana@mail.ru)
 
 ---
@@ -31,9 +32,9 @@ I'm a Frontend Developer.
 
 ### 🛠 Tools
 
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <img alt="Git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="Github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <img alt="Postman" src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=fff" />
 <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
@@ -46,6 +47,5 @@ I'm a Frontend Developer.
 <div>
       <img height="160em" align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=YaninaSeb&theme=slateorange&show_icons=true" />
       <img height="160em" align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaninaSeb&layout=compact&theme=slateorange" />
-      <img align="bottom" alt="Codewars" src="https://www.codewars.com/users/YaninaSeb/badges/large" />
 </div>
 
