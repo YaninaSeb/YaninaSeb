@@ -7,8 +7,13 @@ I'm Frontend(Angular) developer from Minsk, Belarus.
 
 - 🌱 I’m currently improving my skills and creating new pet-projects
 - 📚 In my free time I learn English
-- <div>I like to solve puzzles and I solve codewars kata regularly <img align="center" height="25em" align="bottom" alt="Codewars" src="https://www.codewars.com/users/YaninaSeb/badges/large" /> </div>
-- 🔎 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yana_Sebrukovich-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yana-sebrukovich/)  [![Telegram Badge](https://img.shields.io/badge/-Yana_Sebrukovich-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/YanaSebrukovich) [![Mail Badge](https://img.shields.io/badge/-Yana_Sebrukovich-blue?style=flat&logo=Gmail&logoColor=white)](mailto:sebrukovich_jana@mail.ru)
+- <div> 🧩 I like to solve puzzles and I solve codewars kata regularly <img align="center" height="25em" align="bottom" alt="Codewars" src="https://www.codewars.com/users/YaninaSeb/badges/large" /> </div>
+
+
+### 🔎 How to reach me
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yana-sebrukovich)
+[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/YanaSebrukovich)
+[<img alt="Email" src="https://img.shields.io/badge/mail-E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sebrukovich_jana@mail.ru)
 
 ---
 
